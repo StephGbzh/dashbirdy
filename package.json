@@ -1,25 +1,24 @@
 {
-  "name": "electron-react-webpack-boilerplate",
-  "version": "1.0.3",
-  "description": "Minimal Electron, React, PostCSS and Webpack boilerplate to help you get started with building your next app.",
+  "name": "dashbirdy",
+  "version": "0.0.1",
+  "description": "Dashboard app built on Electron + React, like Rainmeter or Conky.",
   "license": "MIT",
   "private": false,
   "repository": {
     "type": "git",
-    "url": "https://github.com/alexdevero/electron-react-webpack-boilerplate.git.git"
+    "url": "https://github.com/StephGbzh/dashbirdy.git"
   },
-  "homepage": "",
+  "homepage": "https://github.com/StephGbzh/dashbirdy",
   "bugs": {
-    "url": "https://github.com/alexdevero/electron-react-webpack-boilerplate.git/issues"
+    "url": "https://github.com/StephGbzh/dashbirdy/issues"
   },
   "author": {
-    "name": "Alex Devero",
-    "email": "deveroalex@gmail.com",
-    "url": "https://github.com/alexdevero"
+    "name": "StephGbzh",
+    "url": "https://github.com/StephGbzh"
   },
   "keywords": [
     "app",
-    "boilerplate",
+    "dashboard",
     "electron",
     "open",
     "open-source",
@@ -62,6 +61,7 @@
     "react-dom": "^16.2.0",
     "style-loader": "^0.19.1",
     "webpack": "^3.10.0",
-    "webpack-dev-server": "^2.10.1"
-  }
+    "webpack-dev-server": "^3.1.11"
+  },
+  "dependencies": {}
 }
